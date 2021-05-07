@@ -1,5 +1,4 @@
-1) Сортировка массива из 30000 элементов (не все 
-
+1) Сортировка массива из 30000 элементов (100 000 оказалось многовато)
 Сортировка пузырьком: 50.076312065125 
 Сортировка вставками: 104.44123005867 
 Сортировка расческой: 0.21659898757935 
@@ -9,4 +8,4 @@
 Сортировка быстрая наша: 0.083266019821167 
 Сортировка быстрая чужая: 0.050669193267822 
 Сортировка из PHP: 0.0082530975341797
-Fatal error: Maximum execution time of 180 seconds exceeded in W:\domains\localhost\Sort\DualSelectSort.php on line 19
+Fatal error: Maximum execution time of 180 seconds exceeded in W:\domains\localhost\Sort\DualSelectSort.php on line 19  (время вышло)
